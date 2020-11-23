@@ -3,28 +3,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title>Ashutosh K Singh TwitHub Feed</title>
 <link href="https://github.com/lelouchB/twithub" />
-<updated>2020-11-17T02:24:35-05:00</updated>
+<updated>2020-11-23T11:22:10-05:00</updated>
 <author>
   <name>Ashutosh K Singh</name>
 </author>
 <id>https://github.com/lelouchB/twithub</id>
 <logo>https://images.takeshape.io/f8a74ec5-467e-40b7-a2ab-09bf7265af9f/dev/5cc32c08-4159-4fe0-b8b2-f9d67dc077c7/profilepic-aks.jpg?auto=compress%2Cformat&w=250</logo>
-<entry>
-  <title>Have you read my latest article on building an Image Gallery with NextJS using...</title>
-  <link rel="alternate" href="https://github.com/lelouchB/twithub/#"/>
-  <id>https://github.com/lelouchB/twithub/#</id>
-  <updated>2020-11-17T02:24:35-05:00</updated>
-  <content type="html">&lt;p&gt;Have you read my latest article on building an Image Gallery with NextJS using Pexels API and Chakra UI? 🚀&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/how-to-build-a-recipe-app-with-nextjs/&quot;&gt;How to Build an Image Gallery with NextJS using the Pexels API and Chakra UI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://images.takeshape.io/f8a74ec5-467e-40b7-a2ab-09bf7265af9f/dev/55f254b4-cb42-41ec-8ad6-9364033bb577/Screenshot_2020-11-12%20NextJS%20Image%20Gallery.png?auto=compress%2Cformat&amp;fit=crop&amp;w=560&quot; width=&quot;560&quot; alt=&quot;&quot;/&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Hey Stranger Have you tried #finalspaceapi yet? Final Space API is a RESTful...</title>
-  <link rel="alternate" href="https://github.com/lelouchB/twithub/#"/>
-  <id>https://github.com/lelouchB/twithub/#</id>
-  <updated>2020-11-05T02:15:59-05:00</updated>
-  <content type="html">&lt;p&gt;Hey Stranger
-Have you tried #finalspaceapi yet?&lt;/p&gt;
-&lt;p&gt;Final Space API is a RESTful public API based on the show Final Space.&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://images.takeshape.io/f8a74ec5-467e-40b7-a2ab-09bf7265af9f/dev/a0180a33-8446-4646-a23f-3a1d440011e9/1081311.jpg?auto=compress%2Cformat&amp;fit=crop&amp;w=560&quot; width=&quot;560&quot; alt=&quot;&quot;/&gt;&lt;/p&gt;</content>
-</entry>
 </feed>
 
